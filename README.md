@@ -1,1 +1,1 @@
-This is the Weateher App!
+This is the Weather App!
