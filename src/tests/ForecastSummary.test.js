@@ -27,7 +27,7 @@ describe("ForecastSummary", () => {
   });
 
   it("renders correct values for props", () => {
-    const { getByText,  getByTestId } = render(
+    const { getByText, getByTestId } = render(
       <ForecastSummary
         date={validProps.date}
         description={validProps.description}
